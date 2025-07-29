@@ -1,0 +1,3 @@
+[submodule "submodule_main"]
+	path = submodule_main
+	url = https://github.com/MLlover/submodule_main.git
